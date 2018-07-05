@@ -1,1 +1,11 @@
 /* add CSS class and element and selectors here */
+body{
+  background-color:#3FC39A;
+  font-size:100%;
+}
+
+.colorthing{
+  font-family:Arial;
+  font-size:400%;
+  border:15px dotted blue;
+}
